@@ -1,5 +1,6 @@
-# Machine Learning for Physicists 2020
-Collaborative repo for Prof. Florian Marquadt's Machine Learning for Physicist 2020 course
+![ML for physicist banner](https://user-images.githubusercontent.com/51282928/80908777-ee1b0300-8d4c-11ea-9c42-36378a4d811b.PNG)
+
+### Collaborative repo for Prof. Florian Marquadt's Machine Learning for Physicist 2020 course
 
 Links:
 * [Course Website](https://pad.gwdg.de/s/HJtiTE__U)
