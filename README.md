@@ -1,4 +1,4 @@
-# ML_for_physicist
+# Machine Learning for Physicists 2020
 Collaborative repo for Prof. Florian Marquadt's Machine Learning for Physicist 2020 course
 
 Links:
