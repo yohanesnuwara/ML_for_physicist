@@ -6,3 +6,14 @@ Links:
 * [Course Website](https://pad.gwdg.de/s/HJtiTE__U)
 * [Google Group](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/machine-learning-for-physicists)
 * [2019 course videos](https://podcasts.apple.com/us/podcast/id1490099216)
+
+### Week 1: Basic Structure of Neural Networks
+
+* Online lecture slide: [PPT](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%201/2020_Session1_MachineLearning_Tutorials.pdf)
+* Tutorial 1. Neural Network: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%201/01_tutorial_NetworkVisualization.ipynb)
+* Tutorial 2. Curve Fitting: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%201/01_tutorial_CurveFitting_YN%20(1).ipynb)
+* Homework: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%201/Homework_W1.ipynb)
+
+### Week 2: Training a Neural Network
+
+### Week 3: Training and analyzing networks, Keras package, Image recognition
