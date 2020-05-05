@@ -6,6 +6,7 @@ Links:
 * [Course Website](https://pad.gwdg.de/s/HJtiTE__U)
 * [Google Group](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/machine-learning-for-physicists)
 * [2019 course videos](https://podcasts.apple.com/us/podcast/id1490099216)
+* [2019 Les Houches lecture handout](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/materials/LesHouchesMachLearning_Complete2.pdf)
 
 ### Week 1: Basic Structure of Neural Networks
 
