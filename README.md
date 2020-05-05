@@ -16,4 +16,6 @@ Links:
 
 ### Week 2: Training a Neural Network
 
+* Tutorial Neural Network Back Propagation: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%202/02_MachineLearning_Backpropagation.ipynb)
+
 ### Week 3: Training and analyzing networks, Keras package, Image recognition
