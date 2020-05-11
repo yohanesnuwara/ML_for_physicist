@@ -20,3 +20,6 @@ Links:
 * Tutorial Neural Network Back Propagation: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%202/02_MachineLearning_Backpropagation.ipynb)
 
 ### Week 3: Training and analyzing networks, Keras package, Image recognition
+
+* Tutorial 1. Minimal Keras example: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%203/03_tutorial_KerasBasics.ipynb)
+* Tutorial 2. Network Training Visualization using Keras: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%203/03_tutorial_NetworkTrainingKeras.ipynb)
