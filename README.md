@@ -5,24 +5,28 @@
 > **Instructor**: Prof. Florian Marquardt<br>
 > **Institution**: Max Planck Institute for the Science of Light, Erlangen, Germany
 
-Links:
+### Links
+
 * [Course Website](https://pad.gwdg.de/s/HJtiTE__U)
+* [Course GitHub](https://github.com/FlorianMarquardt/machine-learning-for-physicist)
 * [Google Group](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/machine-learning-for-physicists)
 * [2019 course videos](https://podcasts.apple.com/us/podcast/id1490099216)
 * [2019 Les Houches lecture handout](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/materials/LesHouchesMachLearning_Complete2.pdf)
 
-### Week 1: Basic Structure of Neural Networks
+### My Mini Project
 
-* Online lecture slide: [PPT](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%201/2020_Session1_MachineLearning_Tutorials.pdf)
-* Tutorial 1. Neural Network: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%201/01_tutorial_NetworkVisualization.ipynb)
-* Tutorial 2. Curve Fitting: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%201/01_tutorial_CurveFitting_YN%20(1).ipynb)
-* Homework: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%201/Homework_W1.ipynb)
+At the end of this summer training program, I made a mini-project. I name this mini-project: `Neural Network Application for Enhanced Oil Recovery (EOR) Screening`. EOR screening is part of important practices in the oil and gas industry. Main reference of this project is EOR screening metric proposed by Taber et al (1997) in their [SPE-35385-PA paper](https://www.onepetro.org/journal-paper/SPE-35385-PA). 
 
-### Week 2: Training a Neural Network
+Some key facts of this project are:
 
-* Tutorial Neural Network Back Propagation: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%202/02_MachineLearning_Backpropagation.ipynb)
+* I generated datasets using random technique, **245 dummy field observations**, each containing **6 reservoir fluid and rock parameters**. These datasets are the my **train datasets**.
+* These 6 parameters are the **input features** for the NN.
+* The datasets are **labeled** with each of **7 EOR methods**.
+* I generated as well, another **50 dummy field observations**, without label. These datasets are the my **test datasets**, for prediction.
+* In the first trial, without hyperparameter tuning, **1 hidden layer with 100 hidden neurons** is used. 
 
-### Week 3: Training and analyzing networks, Keras package, Image recognition
+What can still be improved?
 
-* Tutorial 1. Minimal Keras example: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%203/03_tutorial_KerasBasics.ipynb)
-* Tutorial 2. Network Training Visualization using Keras: [notebook](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/Week%203/03_tutorial_NetworkTrainingKeras.ipynb)
+* To increase accuracy of prediction, the other **3 categorical parameters** that were not used before, could be included. The thing needed is to encode categorical parameters.
+* **Real datasets** can be obtained. This [paper]() by Lake & Walsh (UT Austin, 2008) listed all publications about EOR, and this [CSV file]() by World Economic Outlook (2018) listed as much as **233 EOR fields**.
+* This real dataset will be released soon. 
