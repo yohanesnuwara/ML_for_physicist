@@ -15,6 +15,8 @@
 
 ### My Mini Project
 
+![neural network eor screening](https://user-images.githubusercontent.com/51282928/87856913-96079c00-c94c-11ea-981c-eee1d6b43744.jpg)
+
 At the end of this summer training program, I made a mini-project. I name this mini-project: `Neural Network Application for Enhanced Oil Recovery (EOR) Screening`. EOR screening is part of important practices in the oil and gas industry. Main reference of this project is EOR screening metric proposed by Taber et al (1997) in their [SPE-35385-PA paper](https://www.onepetro.org/journal-paper/SPE-35385-PA). 
 
 Some key facts of this project are:
@@ -24,6 +26,8 @@ Some key facts of this project are:
 * The datasets are **labeled** with each of **7 EOR methods**.
 * I generated as well, another **50 dummy field observations**, without label. These datasets are the my **test datasets**, for prediction.
 * In the first trial, without hyperparameter tuning, **1 hidden layer with 100 hidden neurons** is used. 
+
+> Find the train CSV data [here]() and the test data [here]()
 
 What can still be improved?
 
