@@ -15,6 +15,8 @@
 
 ### My Mini Project
 
+#### Access to my notebook [here](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/mini-project/eor_screening_neural_network.ipynb)
+
 ![neural network eor screening](https://user-images.githubusercontent.com/51282928/87856913-96079c00-c94c-11ea-981c-eee1d6b43744.jpg)
 
 At the end of this summer training program, I made a mini-project. I name this mini-project: `Neural Network Application for Enhanced Oil Recovery (EOR) Screening`. EOR screening is part of important practices in the oil and gas industry. Main reference of this project is EOR screening metric proposed by Taber et al (1997) in their [SPE-35385-PA paper](https://www.onepetro.org/journal-paper/SPE-35385-PA). 
