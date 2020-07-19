@@ -31,7 +31,7 @@ Some key facts of this project are:
 * I generated as well, another **50 dummy field observations**, without label. These datasets are the my **test datasets**, for prediction.
 * In the first trial, without hyperparameter tuning, **1 hidden layer with 100 hidden neurons** is used. 
 
-> Find the train CSV data [here]() and the test data [here]()
+> Find the train CSV data [here](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/data/train_dataset.csv) and the test data [here](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/data/test_dataset.csv)
 
 What can still be improved?
 
