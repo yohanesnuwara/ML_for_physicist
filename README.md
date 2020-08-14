@@ -14,7 +14,7 @@
 * [2019 Les Houches lecture handout](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/materials/LesHouchesMachLearning_Complete2.pdf)
 * [Participant's Final Projects](https://owncloud.gwdg.de/index.php/s/bQYXNaqsL0W9O7h)
 
-### My Mini Project
+### ANN4EOR. My Mini Project
 
 #### Access to my notebook [here](https://github.com/yohanesnuwara/ML_for_physicist/blob/master/mini-project/eor_screening_neural_network.ipynb)
 
